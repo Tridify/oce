@@ -1,0 +1,3 @@
+[submodule "oce-win-bundle"]
+	path = oce-win-bundle
+	url = https://github.com/QbProg/oce-win-bundle
